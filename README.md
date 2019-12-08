@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/kaushikkateel/Stadia-of-Olympus/blob/master/img/logo-black.png" height="150" />
+<img src="https://github.com/kaushikkateel/Stadia-of-Olympus/blob/master/img/black-logo.png" height="150" />
 </p>
 <h1 align="center">Stadia of Olympus</h1>
 
